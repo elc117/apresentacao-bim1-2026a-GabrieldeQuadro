@@ -118,7 +118,6 @@ Pode gerar repetições → usar:
 ```prolog
 ?- setof(A, drama_artist(A), Lista).
 ```
-![atores][img/atores.webm]
 ---
 
 ## Predicado: `movieAgeByName/2`
@@ -149,7 +148,7 @@ movieAgeByName(M, Age) :-
 ```
 
 ---
-![ano][img/ano.webm]
+
 
 ## Predicado: `recommend/2`
 
@@ -175,7 +174,7 @@ recommend(U, M) :-
 ```prolog
 ?- setof(M, recommend(arthur, M), Lista).
 ```
-![atores][img/indicacao.webm]
+
 ---
 
 ## Predicado: `count_users/1`
