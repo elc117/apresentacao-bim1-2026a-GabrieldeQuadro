@@ -2,7 +2,7 @@
 
 ## 3 pontos que compreendi melhor
 
-### 1. contas matematicas
+### 1. Uso de is
 
 Is é usado como "=" em outras linguagens, como apresentado.
 
