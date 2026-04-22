@@ -214,17 +214,3 @@ Precisa sempre fazer a correspondência entre ID e nome.
 
 ---
 
-## ❗ Uso incorreto de `,` e `;`
-
-Errado:
-
-```prolog
-actor(M, A), actress(M, A)
-```
-
-Correto:
-
-```prolog
-(actor(M, A) ; actress(M, A))
-
----
