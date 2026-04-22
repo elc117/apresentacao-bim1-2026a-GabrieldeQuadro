@@ -43,7 +43,7 @@ Facilita representar "ao lado de".
 
 ### 1. Ordem implícita da lista
 
-A posição (esquerda/direita) não é explícita, exige interpretação mental.
+A posição (esquerda/direita) não é explícita, exige interpretação
 
 ---
 
