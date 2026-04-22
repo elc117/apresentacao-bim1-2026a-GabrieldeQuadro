@@ -2,21 +2,15 @@
 
 ## 3 pontos que compreendi melhor
 
-### 1. Representação com listas estruturadas
+### 1. contas matematicas
 
-Aprendi a modelar problemas lógicos usando estruturas como:
+Is é usado como "=" em outras linguagens, como apresentado.
 
-```prolog
-casa(Morador, Cor, Pet)
-```
+em Uso X = 1+1
 
-E agrupando:
+false
 
-```prolog
-Casas = [casa(...), casa(...), casa(...)]
-```
-
-Isso transforma o problema em algo manipulável no Prolog.
+o uso correto seria X is 1+1
 
 ---
 
